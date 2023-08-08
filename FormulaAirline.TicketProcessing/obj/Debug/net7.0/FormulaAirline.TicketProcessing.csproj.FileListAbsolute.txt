@@ -1,0 +1,15 @@
+/Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/bin/Debug/net7.0/FormulaAirline.TicketProcessing
+/Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/bin/Debug/net7.0/FormulaAirline.TicketProcessing.deps.json
+/Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/bin/Debug/net7.0/FormulaAirline.TicketProcessing.runtimeconfig.json
+/Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/bin/Debug/net7.0/FormulaAirline.TicketProcessing.dll
+/Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/bin/Debug/net7.0/FormulaAirline.TicketProcessing.pdb
+/Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net7.0/FormulaAirline.TicketProcessing.csproj.AssemblyReference.cache
+/Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net7.0/FormulaAirline.TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net7.0/FormulaAirline.TicketProcessing.AssemblyInfoInputs.cache
+/Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net7.0/FormulaAirline.TicketProcessing.AssemblyInfo.cs
+/Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net7.0/FormulaAirline.TicketProcessing.csproj.CoreCompileInputs.cache
+/Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net7.0/FormulaAirline.TicketProcessing.dll
+/Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net7.0/refint/FormulaAirline.TicketProcessing.dll
+/Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net7.0/FormulaAirline.TicketProcessing.pdb
+/Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net7.0/FormulaAirline.TicketProcessing.genruntimeconfig.cache
+/Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net7.0/ref/FormulaAirline.TicketProcessing.dll
