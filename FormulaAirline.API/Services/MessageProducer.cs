@@ -18,7 +18,7 @@ public class MessageProducer : IMessageProducer
 
         var conn = factory.CreateConnection();
         using var chanel = conn.CreateModel();
-        chanel.QueueDeclare("bookings", durable: true, exclusive: true);
+        chanel.QueueDeclare("bookings", durable: true, exclusive: false);
         var jsonString = JsonSerializer.Serialize(message);
         var body = Encoding.UTF8.GetBytes(jsonString);
 

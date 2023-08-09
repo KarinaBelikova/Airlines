@@ -13,3 +13,5 @@
 /Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net7.0/FormulaAirline.TicketProcessing.pdb
 /Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net7.0/FormulaAirline.TicketProcessing.genruntimeconfig.cache
 /Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net7.0/ref/FormulaAirline.TicketProcessing.dll
+/Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/obj/Debug/net7.0/FormulaAirline.TicketProcessing.csproj.CopyComplete

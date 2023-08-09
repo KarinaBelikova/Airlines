@@ -7,6 +7,7 @@
 /Users/karina/Projects/Airlines/FormulaAirline.API/bin/Debug/net7.0/FormulaAirline.API.pdb
 /Users/karina/Projects/Airlines/FormulaAirline.API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/karina/Projects/Airlines/FormulaAirline.API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/karina/Projects/Airlines/FormulaAirline.API/bin/Debug/net7.0/RabbitMQ.Client.dll
 /Users/karina/Projects/Airlines/FormulaAirline.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/karina/Projects/Airlines/FormulaAirline.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/karina/Projects/Airlines/FormulaAirline.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -31,4 +32,3 @@
 /Users/karina/Projects/Airlines/FormulaAirline.API/obj/Debug/net7.0/FormulaAirline.API.pdb
 /Users/karina/Projects/Airlines/FormulaAirline.API/obj/Debug/net7.0/FormulaAirline.API.genruntimeconfig.cache
 /Users/karina/Projects/Airlines/FormulaAirline.API/obj/Debug/net7.0/ref/FormulaAirline.API.dll
-/Users/karina/Projects/Airlines/FormulaAirline.API/bin/Debug/net7.0/RabbitMQ.Client.dll

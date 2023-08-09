@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "gPTcgscB8nh2H/0Ybd0DLtApmkg29Yy4kNOojsjR0TfQife30kQa37pootXBlvCryi87PsA1aeZ1NPtRF3zuQA==",
+  "dgSpecHash": "03YGPpTUUIZA9qkrCa2QR2PYuOsSZnIjHtMzSe0T8FrjVmDZZj8lYV6ukvT5eGKuLQgMERSB+l7KL/YsuHjj2A==",
   "success": true,
   "projectFilePath": "/Users/karina/Projects/Airlines/FormulaAirline.TicketProcessing/FormulaAirline.TicketProcessing.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/karina/.nuget/packages/rabbitmq.client/6.5.0/rabbitmq.client.6.5.0.nupkg.sha512",
+    "/Users/karina/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/karina/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
