@@ -1,2 +1,2 @@
-# Airlines
+# Airlines - Rabbit MQ
  
